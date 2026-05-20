@@ -1,6 +1,7 @@
-# mxPlanner
+# mxPlanner 
 
 Aplikacja typu Kanban / Todo do zarządzania zadaniami i planowania nauki.
+https://mx-planner.vercel.app/
 
 ## Funkcjonalności
 
