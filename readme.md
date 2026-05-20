@@ -98,7 +98,7 @@ mxplanner/
 ## Dashboard
 
 ```md
-![Dashboard](./screens/dashboard.jpg)
+![Dashboard](/screens/dashboard.jpg)
 ```
 
 ---
@@ -106,7 +106,7 @@ mxplanner/
 # Screenshot testów
 
 ```md
-![Tests](./screens/test.jpg)
+![Tests](/screens/test.jpg)
 ```
 
 ---
