@@ -97,17 +97,13 @@ mxplanner/
 
 ## Dashboard
 
-```md
-![Dashboard](/screens/dashboard.jpg)
-```
+![Dashboard](./screens/dashboard.jpg)
 
 ---
 
 # Screenshot testów
 
-```md
 ![Tests](/screens/test.jpg)
-```
 
 ---
 
