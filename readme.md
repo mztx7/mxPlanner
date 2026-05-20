@@ -9,15 +9,15 @@ https://mx-planner.vercel.app/
 * Usuwanie zadań
 * Podział na statusy:
 
-  * To Do
-  * In Progress
-  * Done
+  * Do zrobienia
+  * W trakcie
+  * Wykonane
 * Priorytety zadań
 * Renderowanie dynamicznych list
 * React Hooks (`useState`)
 * Komponentowa architektura
 * Testy jednostkowe Vitest
-* Backend Express + Prisma + SQLite
+* Backend Express + Prisma + SQLite 
 
 ---
 
@@ -34,7 +34,7 @@ https://mx-planner.vercel.app/
 * Node.js
 * Express.js
 * Prisma ORM
-* SQLite
+* SQLite (baza wyciszona bez zapisu)
 
 ## Testy
 
